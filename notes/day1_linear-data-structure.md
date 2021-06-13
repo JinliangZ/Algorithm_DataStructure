@@ -5,7 +5,7 @@
   - [数组](#数据结构-数组)
   - [链表](#数据结构-链表)
   - [栈与队列](#数据结构-栈与队列)
-- [学习电子书：第一章 -> 数据结构 -> 线性结构的所有内容](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/basic-data-structure#xian-xing-jie-gou)
+- [学习电子书：第一章 -> 数据结构 -> 线性结构的所有内容](#电子书)
 
 ###### 数据结构的分类:
 
@@ -14,7 +14,8 @@ https://www.jianshu.com/p/be95436fa981
 逻辑结构：线性结构（如线性表 、栈 、队列）和非线性结构（如：二叉树，图等）
 
 线性表有两种存储结构：1.顺序存储结构（数组）。2.链式存储结构（链表）
-一个线性表是 n 个具有相同特性的元素的有限序列。参考：https://zhuanlan.zhihu.com/p/232122059
+线性表是由 n 个具有相同类型的数据元素组成的的有限序列。参考：https://zhuanlan.zhihu.com/p/232122059
+特点：除了头部和尾部，任意元素都有一个直接前驱和一个直接后继。参考：https://zhuanlan.zhihu.com/p/86509621
 
 存储结构（物理上）分为顺序结构（主要用于线性的数据结构）和链式结构（用指针的指向来体现数据元素之间在逻辑上的联系），索引存储，散列存储
 
@@ -47,3 +48,9 @@ https://www.jianshu.com/p/be95436fa981
 栈常见的应用有进制转换，括号匹配，栈混洗，中缀表达式（用的很少），后缀表达式（逆波兰表达式）等。
 
 队列只能够操作队尾和队首,，并且只能只能在队尾添加元素，在队首删除元素。
+
+---
+
+###### 电子书
+
+[地址](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/basic-data-structure#xian-xing-jie-gou)
